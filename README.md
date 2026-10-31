@@ -9,56 +9,45 @@ This repository contains the complete 3D CAD models, mechanical assemblies, and 
 | **Assembly Type** | 2-Panel Top-Hung Bifold Door |
 | **Track Type** | U-Channel Aluminum Rail (Top Mount) |
 | **Hinge Type** | Non-Morse Hinge (Surface Mount) |
-| **Pivot System** | Top Metal Pivot & Bottom Bracket with Guide Wheel |
+| **Pivot System** | Top Metal Pivot, Bottom Bracket and Guide Wheel |
 | **Special Features** | Integrated Door Spring Assembly for soft-close/open |
 | **CAD Software** | SolidWorks |
 
 ## 📦 Bill of Materials (BOM)
-| Item | Part Name | Qty | Description |
+| Item | Part Number | Part Name | Qty |
 | :--- | :--- | :--- | :--- |
-| 1 | **Bi Fold Door Assembly** | 1 | Complete 2-panel door system (Left & Right) |
-<img width="425" height="1143" alt="2-Panel Bifold Door - Front" src="https://github.com/user-attachments/assets/72e67b31-2b83-4ccd-b596-7560d88cf27d" />
+| 1 | PRT-001 | Door | 2 |
+| 2 | PRT-002 | U Channel Aluminum Rail | 2 |
+| 3 | PRT-003 | Non Morse Hinge | 3 |
+| 4 | PRT-004 | Top Metal Pivot | 1 |
+| 5 | PRT-005 | Bottom Pivot | 1 |
+| 6 | PRT-006 | Bottom Bracket | 1 |
+| 7 | PRT-007 | Top Bracket | 1 |
+| 8 | PRT-008 | Guide Wheel | 1 |
+| 9 | PRT-009 | Door Spring | 1 |
+| 10 | PRT-010 | Connector | 1 |
+| 11 | PRT-011 | Handle | 1 |
+| 12 | HW-001 | #10 x 1.5" Flat Head Wood Screw | 4 |
+| 13 | HW-002 | #8 x 0.75" Pan Head Wood Screw | 12 |
+| 14 | HW-003 | #10 x 1" Wood Screw / Concrete Anchor | 3 |
+| 16| HW-005 | M6 x 20mm Machine Screw | 2 |
+| 17 | HW-006 | M4 x 40mm Machine Screw | 1 |
 
-| 2 | **Door Assembly** | 2 | Individual door panels (Wood/MDF) |
-<img width="393" height="1118" alt="Door Assembly" src="https://github.com/user-attachments/assets/6f8cb9cc-20b4-4d3d-af1c-92c775be5cd6" />
+## 🔩 Fastener & Hardware Usage Notes
+The following notes detail exactly where the standard hardware (screws/anchors) is utilized during the assembly process:
 
-| 3 | **U Channel Aluminum Rail** | 2 | Top mounting track for pivots and guide wheels |
-<img width="1514" height="991" alt="U Channel Aluminum Rail" src="https://github.com/user-attachments/assets/93fc567f-19c7-47c2-a29b-f50cbad8452c" />
-
-| 4 | **Non Morse Hinge Assembly** | 3 | Connects the two door panels (inward/outward folding) |
-<img width="1229" height="1005" alt="Hinges" src="https://github.com/user-attachments/assets/0f10c105-be3e-489e-95be-199293ee926b" />
-
-| 5 | **Top Metal Pivot Assembly** | 1 | Pivot point for the outer door panel in the track |
-<img width="568" height="1022" alt="Top Metal Pivot Assembly" src="https://github.com/user-attachments/assets/40acfd38-4d27-4c48-9707-450edba8314c" />
-
-| 6 | **Bottom Pivot Assembly** | 1 | Bottom floor-mounted pivot point |
-<img width="477" height="1008" alt="Bottom Pivot Assembly" src="https://github.com/user-attachments/assets/c9e800b0-a82c-45a5-9e2f-07f923fb8df7" />
-
-| 7 | **Bottom Bracket Assembly** | 1 | Holds the bottom pivot and aligns the door |
-<img width="910" height="764" alt="Bottom Bracket Assembly" src="https://github.com/user-attachments/assets/98cabba1-820b-489a-93ec-fd4e05f7a04f" />
-
-| 8 | **Top Bracket Assembly** | 1 | Adjustable bracket for the top track connection |
-<img width="936" height="747" alt="Top Bracket Assembly" src="https://github.com/user-attachments/assets/9ec1d1a3-54fc-4945-9e17-b9abfd59c628" />
-
-| 9 | **Guide Wheel Assembly** | 1 | Floor guide to keep the leading door panel aligned |
-<img width="595" height="970" alt="Guide Wheel Assembly" src="https://github.com/user-attachments/assets/054f081d-e69f-4357-80c1-5cd4f43a5b27" />
-
-| 10 | **Door Spring Assembly** | 1 | Tension spring mechanism for assisted operation |
-<img width="1206" height="943" alt="Door Spring Assembly" src="https://github.com/user-attachments/assets/e0c35ec6-8bd2-4d58-a1aa-b9d8a1a9fef5" />
-
-| 11 | **Connector** | 1 | Hardware to link the pivot and bracket |
-<img width="1497" height="1026" alt="U Channel Connector" src="https://github.com/user-attachments/assets/79cdd4ad-1114-4248-90a9-50480f085e56" />
-
-| 12 | **Handle** | 1 | Pull handle for the leading door panel |
-<img width="968" height="912" alt="Door Handle" src="https://github.com/user-attachments/assets/e106f359-14d4-489f-96d3-6172b53c003f" />
+*   **HW-001 (#10 x 1.5" Flat Head Wood Screw):** Used to mount the **U Channel Aluminum Rails** to the top header (and bottom floor track, if applicable). The flat head design allows the top pivot and guide wheels to roll smoothly past the screw heads.
+*   **HW-002 (#8 x 0.75" Pan Head Wood Screw):** Used to attach the **Non-Morse Hinges** to the Door panels. With 3 hinges and 4 screws per hinge, this secures the two door panels together.
+*   **HW-003 (#10 x 1" Wood Screw / Concrete Anchor):** Used to secure the **Bottom Bracket** and the **Guide Wheel** to the floor or door frame. (Use concrete anchors if mounting to a hard floor).
+*   **HW-005 (M6 x 20mm Machine Screw):** Used within the **Top Bracket Assembly** for height and depth adjustment, locking the top pivot pin in place.
+*   **HW-006 (M4 x 40mm Machine Screw):** Used to mount the **Handle** to the leading door panel.
 
 
 ## 🛠️ Features
 *   **Space-Saving Mechanism:** Folds completely in half, saving up to 50% of the floor space required by a standard swinging door.
 *   **Smooth Motion Study:** Includes a rendered kinematic animation verifying the 90-degree fold path and ensuring zero interference between the door panels, hinges, and the U-channel rail.
 *   **Adjustable Hardware:** The Top Bracket and Bottom Bracket assemblies are designed with slotted holes to allow for height and depth adjustment during installation.
-*   **Floor Protection:** The Bottom Guide Wheel Assembly ensures the door tracks smoothly without scratching the floor.
-
+  
 <br>
 
 <img width="396" height="1029" alt="2-Panel Bifold Door - Isometric" src="https://github.com/user-attachments/assets/1ae3a52a-5372-4466-af38-caee05e36378" />
@@ -74,10 +63,10 @@ This repository contains the complete 3D CAD models, mechanical assemblies, and 
 **Step 2: Hinge & Panel Assembly**
 *   Attach the **Non Morse Hinge Assemblies** to connect the two **Door Assemblies** together.
 *   Install the **Handle** onto the leading edge of the front door panel.
+*   Mount the **Guide Wheel Assembly** to the top frame, aligning it with the path of the inner door panel.
 
 **Step 3: Bottom Hardware**
 *   Install the **Bottom Bracket Assembly** and **Bottom Pivot Assembly** onto the outer door panel.
-*   Mount the **Guide Wheel Assembly** to the floor (or bottom frame), aligning it with the path of the inner door panel.
 
 **Step 4: Hanging the Doors**
 *   Lift the assembled doors and insert the top pivot pin into the top track bracket.
@@ -86,7 +75,7 @@ This repository contains the complete 3D CAD models, mechanical assemblies, and 
 
 **Step 5: Final Adjustments**
 *   Engage the **Door Spring Assembly** to the specified tension.
-*   Test the fold operation. If the doors rub or jam, adjust the lateral position of the top bracket or the floor guide wheel.
+*   Test the fold operation. If the doors rub or jam, adjust the lateral position of the top bracket or the guide wheel.
 
 ## 📂 Repository Structure
 *   `/assemblies` - Full door sub-assemblies and the master motion study.
