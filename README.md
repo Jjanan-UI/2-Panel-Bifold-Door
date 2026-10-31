@@ -27,20 +27,10 @@ This repository contains the complete 3D CAD models, mechanical assemblies, and 
 | 9 | PRT-009 | Door Spring | 1 |
 | 10 | PRT-010 | Connector | 1 |
 | 11 | PRT-011 | Handle | 1 |
-| 12 | HW-001 | #10 x 1.5" Flat Head Wood Screw | 4 |
+| 12 | HW-001 | #10 x 1.5" Flat Head Wood Screw | 6 |
 | 13 | HW-002 | #8 x 0.75" Pan Head Wood Screw | 12 |
-| 14 | HW-003 | #10 x 1" Wood Screw / Concrete Anchor | 3 |
-| 16| HW-005 | M6 x 20mm Machine Screw | 2 |
-| 17 | HW-006 | M4 x 40mm Machine Screw | 1 |
-
-## 🔩 Fastener & Hardware Usage Notes
-The following notes detail exactly where the standard hardware (screws/anchors) is utilized during the assembly process:
-
-*   **HW-001 (#10 x 1.5" Flat Head Wood Screw):** Used to mount the **U Channel Aluminum Rails** to the top header (and bottom floor track, if applicable). The flat head design allows the top pivot and guide wheels to roll smoothly past the screw heads.
-*   **HW-002 (#8 x 0.75" Pan Head Wood Screw):** Used to attach the **Non-Morse Hinges** to the Door panels. With 3 hinges and 4 screws per hinge, this secures the two door panels together.
-*   **HW-003 (#10 x 1" Wood Screw / Concrete Anchor):** Used to secure the **Bottom Bracket** and the **Guide Wheel** to the floor or door frame. (Use concrete anchors if mounting to a hard floor).
-*   **HW-005 (M6 x 20mm Machine Screw):** Used within the **Top Bracket Assembly** for height and depth adjustment, locking the top pivot pin in place.
-*   **HW-006 (M4 x 40mm Machine Screw):** Used to mount the **Handle** to the leading door panel.
+| 14 | HW-003 | #10 x 1" Wood Screw / Concrete Anchor | 1 |
+| 15 | HW-006 | M4 x 40mm Machine Screw | 1 |
 
 
 ## 🛠️ Features
@@ -55,27 +45,8 @@ The following notes detail exactly where the standard hardware (screws/anchors) 
 
 
 ## 🚀 Installation Instructions
-
-**Step 1: Track Preparation**
-*   Mount the **U Channel Aluminum Rail** to the top frame of the door opening. Ensure it is perfectly level. 
-*   Install the **Top Bracket Assembly** and **Top Metal Pivot Assembly** into the aluminum rail.
-
-**Step 2: Hinge & Panel Assembly**
-*   Attach the **Non Morse Hinge Assemblies** to connect the two **Door Assemblies** together.
-*   Install the **Handle** onto the leading edge of the front door panel.
-*   Mount the **Guide Wheel Assembly** to the top frame, aligning it with the path of the inner door panel.
-
-**Step 3: Bottom Hardware**
-*   Install the **Bottom Bracket Assembly** and **Bottom Pivot Assembly** onto the outer door panel.
-
-**Step 4: Hanging the Doors**
-*   Lift the assembled doors and insert the top pivot pin into the top track bracket.
-*   Align the bottom pivot into the bottom bracket. 
-*   Adjust the top and bottom brackets to ensure the door sits level and plumb.
-
-**Step 5: Final Adjustments**
-*   Engage the **Door Spring Assembly** to the specified tension.
-*   Test the fold operation. If the doors rub or jam, adjust the lateral position of the top bracket or the guide wheel.
+<img width="965" height="1052" alt="Screenshot 2026-10-31 144501" src="https://github.com/user-attachments/assets/d34a8169-d11c-4ec8-830a-7c3b6082084b" />
+Refer to `/docs` - Bifold_Door_Installation_Guide.pdf
 
 ## 📂 Repository Structure
 *   `/assemblies` - Full door sub-assemblies and the master motion study.
