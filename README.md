@@ -82,6 +82,7 @@ The following notes detail exactly where the standard hardware (screws/anchors) 
 *   `/parts` - Individual CAD files for hinges, pivots, brackets, and hardware.
 *   `/animations` - `.mp4` files of the motion study.
 *   `/docs` - installation manuals (PDF).
+*   `/photos` - reference file.
 
 ## Note
 *   `/drawings` - 2D manufacturing drawings will be included on a separate repository on the Bifold Door Kit.
