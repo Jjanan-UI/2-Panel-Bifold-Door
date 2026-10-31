@@ -52,7 +52,7 @@ Refer to `/docs` - Bifold_Door_Installation_Guide.pdf
 *   `/assemblies` - Full door sub-assemblies and the master motion study.
 *   `/parts` - Individual CAD files for hinges, pivots, brackets, and hardware.
 *   `/animations` - `.mp4` files of the motion study.
-*   `/docs` - installation manuals (PDF).
+*   `/docs` - installation manuals with BOM (PDF).
 *   `/photos` - reference file.
 
 ## Note
