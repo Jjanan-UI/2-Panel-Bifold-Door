@@ -84,4 +84,4 @@ The following notes detail exactly where the standard hardware (screws/anchors) 
 *   `/docs` - installation manuals (PDF).
 
 ## Note
-* *   `/drawings` - 2D manufacturing drawings will be included on a separate repository on the Bifold Door Kit.
+*   `/drawings` - 2D manufacturing drawings will be included on a separate repository on the Bifold Door Kit.
