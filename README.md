@@ -119,8 +119,5 @@ Full step-by-step guide with hardware callouts is available in:
 ---
 
 ## 👤 Author
-
-**Jhon Lito Padit** — Registered Mechanical Engineer
-SolidWorks · Sheet-Metal Design · Manufacturing Drawings · Product Development
-
-[GitHub](https://github.com/Jjanan-UI) · [LinkedIn](https://www.linkedin.com/in/jhon-lito-padit-86b42826a) · [Portfolio](https://example.com/)
+Jhon
+[GitHub](https://github.com/Jjanan-UI) · [LinkedIn](https://www.linkedin.com/in/jhon-lito-padit-86b42826a) · [Portfolio](https://jjanan-ui.github.io/Portfolio/)
